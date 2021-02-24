@@ -1,3 +1,4 @@
+// attaches notes to their frequency in Hz
 #define B3 247
 #define BS3 254.5
 #define C4 262
